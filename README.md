@@ -1,2 +1,7 @@
 # My-Project-Portfolio
-This page host all my data science projects
+
+## Welcome to my Data Science Portfolio
+
+### Name : Fabiyi Opeyemi
+
+[linkedIn](https://www.linkedin.com/in/opeyemifabiyi/)
